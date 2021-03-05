@@ -1,6 +1,5 @@
-package com.rookie.ai.al_structure.test_03_06;
+package com.rookie.ai.al_structure.test_03_05;
 
-import java.util.ArrayList;
 import java.util.Stack;
 
 /**
